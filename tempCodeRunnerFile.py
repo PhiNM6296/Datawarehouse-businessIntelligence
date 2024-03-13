@@ -1,0 +1,1 @@
+tar_file_path = "D:\\Documents\\Qua môn\\Datawarehouse&BI\\dvdrental.tar"
